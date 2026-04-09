@@ -1,0 +1,19 @@
+{
+  "Timestamp": "2026-04-09T07:25:45.555237+00:00",
+  "Regi\u00f3n": "us-west-2",
+  "EC2": [],
+  "S3": [
+    {
+      "Nombre": "bucket-ppractitioner-1775719339",
+      "Creado": "2026-04-09T07:22:21+00:00"
+    }
+  ],
+  "Lambda": [
+    {
+      "Nombre": "MonitoringFunction",
+      "Runtime": "python3.10",
+      "\u00daltima Modificaci\u00f3n": "2026-04-08T21:12:58.168+0000",
+      "Tama\u00f1o (KB)": 0.7236328125
+    }
+  ]
+}
